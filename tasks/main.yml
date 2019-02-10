@@ -17,4 +17,3 @@
 
   - name: Ensure that chronyd is enabled and started
     include_tasks: "{{ ansible_service_mgr | lower }}.yml"
-

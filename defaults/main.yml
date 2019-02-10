@@ -19,7 +19,7 @@ chrony_rtcsync_enable: yes
 
 # Set max slew rate
 # chrony_maxslewrate: 500
-# 
+
 # Whitelist and blacklist to access
 # chrony_access_list:
 #   allow:
@@ -39,4 +39,3 @@ chrony_client_log_enable: no
 
 # Logging threshold
 chrony_log_threshold: 0.5
-
